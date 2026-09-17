@@ -1,8 +1,0 @@
-{
-  "TaskName": "REST003",
-  "SamplingFrequency": 10.00063176451181,
-  "NIRSChannelCount": 972,
-  "NIRSSourceOptodeCount": 48,
-  "NIRSDetectorOptodeCount": 34,
-  "RecordingDuration": 1092.9
-}
